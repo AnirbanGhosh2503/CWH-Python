@@ -1,0 +1,5 @@
+a = (1, 45, 342, 3424, False, "Rohan", "Shivam")
+#a = ()
+#a = (1,)
+print(type(a))
+print(a)
